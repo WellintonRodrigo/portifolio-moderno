@@ -50,10 +50,25 @@ Se você deseja testar este projeto na sua máquina, siga os passos abaixo:
 
 ---
 
+## 🔍 Demonstração Visual
+
+Abaixo, você pode ver a estrutura completa da página, desde o Hero de impacto até a integração com a API do GitHub.
+<p>
+<img width="3725" height="7722" alt="print_portifolio" src="https://github.com/user-attachments/assets/bcc84eb7-2436-484d-a59d-fa006b0c4fd9" />
+</p>
+
+---
+
 ## 📝 Licença
 
 Este projeto foi desenvolvido para fins de estudo e portfólio. Sinta-se à vontade para usar como inspiração!
 
 ---
+
+
 Desenvolvido por **Wellinton Rodrigo Silva** 👋 
 [LinkedIn](https://www.linkedin.com/in/wellinton-rodrigo-silva-877388101/)
+
+
+
+
