@@ -43,7 +43,11 @@ const Hero = () => {
               <div className="absolute inset-0 bg-slate-100 rounded-3xl -rotate-3 border border-slate-200 overflow-hidden shadow-2xl">
                 {/* Substitua o 'src' pela sua foto depois */}
                 <div className="w-full h-full flex items-center justify-center text-slate-400 text-sm italic p-4 text-center">
-                  [Sua Foto Aqui]
+                  <img
+                  src='/img_site.jpeg'
+                  alt='Minha foto'
+                  className='w-full h-full object-cover'
+                  />
                 </div>
               </div>
             </div>
